@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string-array name="states">
+        <item>Tamil Nadu</item>
+        <item>Andhra Pradesh</item>
+        <item>Gujarat</item>
+        <item>Karnataka</item>
+        <item>Jammu Kashmir</item>
+        <item>Punjab</item>
+    </string-array>
+</resources>

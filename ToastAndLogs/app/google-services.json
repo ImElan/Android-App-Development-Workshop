@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510158475795",
+    "firebase_url": "https://clothes-6d199.firebaseio.com",
+    "project_id": "clothes-6d199",
+    "storage_bucket": "clothes-6d199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510158475795:android:df1347d9728dabf04125e6",
+        "android_client_info": {
+          "package_name": "elan.android.toastandlogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510158475795-1tult624cqqb68124ep8ug87fm5c637b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toastandlogs",
+            "certificate_hash": "78b2018f063d31c218b467dd0c1ec3ffa92daf84"
+          }
+        },
+        {
+          "client_id": "510158475795-7lb7d5vjvd4epg3j5sqtimgatqgvra6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYaeUqtnzRYdsg659GcbXkOG5FlkV_7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510158475795-7lb7d5vjvd4epg3j5sqtimgatqgvra6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

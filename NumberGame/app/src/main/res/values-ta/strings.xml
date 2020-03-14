@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="app_name">எண் விளையாட்டு</string>
+        <string name="Head">பெரிய எண் விளையாட்டு ... !!</string>
+        <string name="Instruction">பெரிய எண்ணின் பொத்தானை அழுத்தவும்</string>
+        <string name="Score">புள்ளிகள் : %1$d ஈட்டிய</string>
+</resources>
